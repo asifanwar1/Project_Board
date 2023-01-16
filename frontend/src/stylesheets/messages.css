@@ -1,0 +1,102 @@
+.messagesModel{
+    font-weight: bold;
+    text-decoration: solid;
+}
+
+
+.profileMessages{
+    background-color: transparent;
+    color: #dad9d7;
+    border: 1px solid #dad9d7;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+    text-align: center;
+}
+
+
+.profileMessages:hover{
+    border: 1px solid #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    cursor: pointer;
+}
+
+
+.modalBodyMsg{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: #dad9d7;
+    border: 1px solid #dad9d7;
+    border-top: none;
+    border-bottom: none;
+    height: 70vh;
+    overflow-y: scroll;
+}
+
+/* .msgCont{
+    background-color: transparent;
+    border: 1px solid red;
+    overflow: auto;
+} */
+
+
+
+.myMsgs{
+    background-color: transparent;
+    padding: 15px 0px 15px 0px;
+    align-self: flex-end;
+    border: none;
+    width: 80%;
+}
+
+.otherMsgs{
+    background-color: transparent;
+    padding: 15px 20px 15px 0px;
+    align-self: flex-start;  
+    border: none;
+    width: 80%;  
+}
+
+.msgtxt{
+    font-style: italic;
+    border: 1px solid #dad9d7;
+    border-radius: 25px 10px 25px 10px ;
+    margin: 0%;
+    padding: 7px 7px 7px 7px;
+    background-color: #dad9d7;
+}
+
+
+.refreshBtn{
+    background-color: #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+    margin-left: 40%;
+}
+
+.refreshBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: #f0ae4e;
+    color: black;
+}
+  
+.refreshBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+}
+
+.refreshIcon{
+    padding-top: 5px;
+    color: black;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,82 @@
+.signInCont{
+    background-color: transparent;
+    color: #dad9d7;
+    width: 30rem;
+    margin-top: 3%;
+}
+
+
+.googleBtnCont{
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+.signinFormCont{
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+.headingCont{
+    color: #dad9d7;
+    text-align: center;
+}
+
+.orCont{
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+.orTxt{
+    display: flex;
+    flex-direction: row;
+}
+.orTxt:before, .orTxt:after{
+    content: "";
+    flex: 1 1;
+    border-bottom: 1px solid;
+    margin: auto;
+}
+.orTxt:before {
+    margin-right: 10px
+}
+.orTxt:after {
+    margin-left: 10px
+}
+
+
+
+.formSignInBtn{
+    cursor: pointer;
+    background-color: #f0ae4e !important;
+    color: black;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+    width: 100%;
+}
+
+
+.formSignInBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+    color: black;
+}
+  
+.formSignInBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+    color: black;
+}
+
+
+.signUpTxt{
+    cursor: pointer;
+    color: #f0ae4e;
+    text-decoration: underline;
+}
+
+.signUpTxt:hover{
+    color: #f09204;
+}
+

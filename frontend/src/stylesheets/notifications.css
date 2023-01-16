@@ -1,0 +1,26 @@
+.searchModel{
+    position: absolute;
+    width: 10%;
+}
+
+
+.refreshBtn2{
+    background-color: #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+    float: right;
+}
+
+.refreshBtn2:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: #f0ae4e;
+    color: black;
+}
+  
+.refreshBtn2:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+}

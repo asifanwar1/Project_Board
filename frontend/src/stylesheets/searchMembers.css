@@ -1,0 +1,62 @@
+.searchModel{
+    text-decoration: solid;
+}
+
+.searchBtn{
+    cursor: pointer;
+}
+
+.searchIcon{
+    color: black
+}
+
+
+.sendRequestBtn{
+    cursor: pointer;
+    background-color: #f0ae4e !important;
+    color: black !important;
+    border: 1px solid #f0ae4e !important;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.sendRequestBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.sendRequestBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+
+
+.memberSearchBtn{
+    cursor: pointer;
+    background-color: #f0ae4e !important;
+    color: black !important;
+    width: 10rem;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #f0ae4e !important;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+
+.memberSearchBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.memberSearchBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+

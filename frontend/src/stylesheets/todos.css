@@ -1,0 +1,28 @@
+.todoModel{
+    /* color: black; */
+    text-decoration: solid;
+}
+
+.todosList{
+    /* background: linear-gradient(to right, #0f2027, #203a43, #2c5364); */
+    background-color: transparent;
+    color:#dad9d7;
+}
+ 
+
+.todosContainer{
+
+    border-top:1px solid #dad9d7 ;
+    margin-top: 5%;
+    margin-left: 0% !important;
+}
+
+.todoOffCanvas{
+    background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
+    color: #dad9d7;
+}
+
+.badgeList{
+    background-color: transparent !important;
+    color: #dad9d7;
+}

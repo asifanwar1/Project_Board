@@ -1,0 +1,122 @@
+
+.submitBtn{
+  /* border: 2px solid red !important; */
+  background-color: #f0ae4e;
+  border: #f0ae4e;
+  margin-left: 45%;
+  margin-right: 50%;
+  color: black;
+}
+
+.submitBtn:hover{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  color: black;
+}
+
+.submitBtn:focus{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  border: #f0ae4e;
+  color: black;
+}
+
+
+.updateBtn{
+  background-color: #f0ae4e;
+  border: #f0ae4e;
+  width: 100%;
+  color: black ;
+}
+
+
+.updateBtn:hover{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  color: black ;
+}
+
+.updateBtn:focus{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  border: #f0ae4e;
+  color: black ;
+}
+
+.addCatBadge{
+  cursor: pointer;
+  float: right;
+  background-color: #f0ae4e;
+  border: #f0ae4e;
+  margin-top: -8px;
+  color: black;
+}
+
+
+.addCatBadge:hover{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  border: #f0ae4e;
+  color: black;
+}
+
+.addCatBadge:focus{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  border: #f0ae4e;
+  color: black;
+}
+
+.categoryBtn{
+  background-color: #f0ae4e;
+  border: #f0ae4e;
+  color: black;
+}
+
+.categoryBtn:hover{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e; 
+  border: #f0ae4e;
+  color: black;
+}
+
+.categoryBtn:focus{
+  background-color: #f0ae4e;
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  border: #f0ae4e;
+  color: black;
+}
+
+
+
+.trashBtn{
+  color: #f0ae4e !important;
+  float: right !important;
+  cursor: pointer;
+
+}
+
+.trashBtn:hover{
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+}
+
+
+.formInput{
+  background-color: transparent;
+  color: #dad9d7;
+  border-radius: 25px 10px 25px 10px ;
+}
+
+
+.formInput:focus{
+  background-color: transparent;
+  border-radius: 25px 10px 25px 10px ;
+  box-shadow: 0px 0px 10px 1px #f0ae4e;
+  border: #f0ae4e;
+  color: #dad9d7;
+}
+
+.listOption{
+  background-color: #dad9d7 !important;
+  color: black;
+}

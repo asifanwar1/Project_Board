@@ -1,0 +1,250 @@
+.projectModel{
+    text-decoration: solid;
+}
+
+.newProjectBtn{
+    background-color: #f0ae4e;
+    border: #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+    cursor: pointer;
+    float: left;
+    text-align: center;
+    color: black;
+}
+
+.newProjectBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: #f0ae4e;
+    
+  }
+
+.teamlist{
+    /* border-top: 1px solid #dad9d7;
+    border-bottom: 1px solid #dad9d7; */
+    border: 1px solid #dad9d7;
+    border-radius: 25px 10px 25px 10px ;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.phaseListItem{
+    /* background: linear-gradient(to right, #0f2027, #203a43, #2c5364); */
+    background-color: transparent;
+    color:#dad9d7;
+}
+
+
+.projectSubmitBtn{
+    /* position: absolute; */
+    /* bottom: -2%; */
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: -5%;
+    
+}
+
+.addMembers{
+    cursor: pointer;
+    background-color: #f0ae4e;
+    color: black;
+    float: right;
+    width: 6rem;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+    text-align: center;
+}
+
+.addMembers:hover{
+    background-color: #f0ae4e;
+    color: black;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.addMembers:focus{
+    background-color: #f0ae4e;
+    color: black;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+.addFriendIcon{
+    cursor: pointer;
+    color: #f0ae4e;
+    float: right;
+    border-radius: 10px;
+}
+
+.addFriendIcon:hover{
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    
+}
+
+
+.phaseTrashBtn{
+    cursor: pointer;
+    color: #f0ae4e;
+    float: right;
+}
+
+.phaseEditBtn{
+    cursor: pointer;
+    color: #f0ae4e;
+    float: right;
+}
+
+.phaseTrashBtn:hover{
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+}
+
+.phaseEditBtn:hover{
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+}
+
+.membersList{
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+
+
+
+.memberListName{
+    float: left;
+}
+
+
+.filesList{
+    border: 1px solid silver;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+.singlefile{
+    background-color: transparent;
+    color:#dad9d7;
+}
+
+.changeDesig{
+    cursor: pointer;
+    color: #f0ae4e;
+    text-decoration:underline;
+}
+
+.changeDesig:hover{
+    color: #f19307;
+}
+
+.phaseBtn{
+    cursor: pointer;
+    margin-left: 40%;
+    margin-right: 40%;
+    background-color: #f0ae4e;
+    color: black !important;
+    width: 30%;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.phaseBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.phaseBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+
+.saveBtnPhase{
+    cursor: pointer;
+    margin-left: 30%;
+    background-color: #f0ae4e;;
+    color: black !important;
+    width: 40%;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+
+}
+
+
+.saveBtnPhase:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.saveBtnPhase:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+.profileImages{
+    border-radius: 50%;
+    width: 5rem;
+}
+
+
+.discrip{
+    word-wrap: break-word;
+}
+
+.contHidden{
+    display: none;
+}
+
+.projectOwner{
+    padding: 2px;
+    float: right;
+}
+
+
+.projectSubmitBtn{
+    cursor: pointer;
+    background-color: #f0ae4e;;
+    color: black !important;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+.projectSubmitBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.projectSubmitBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+.searchBtn{
+    cursor: pointer;
+    background-color: #f0ae4e;;
+    color: black !important;
+    border: 1px solid #f0ae4e;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 25px;
+}
+
+.searchBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.searchBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+
+
+

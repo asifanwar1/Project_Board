@@ -1,0 +1,228 @@
+.titleSelection{
+    text-align: center;
+}
+
+.projectListItem{
+    /* border: 1px solid rgba(13,110,253,255); */
+    border-radius: 10px !important;
+}
+
+.selectedListItem{
+    text-align: center;
+    cursor: pointer;
+    background-color: #f0ae4e;;
+    color: black !important;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+.selectedListItem:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.selectedListItem:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+.warningTxt{
+    color: red;
+}
+
+.title2{
+    margin-left: auto;
+    width: 30%;
+    word-break:normal;
+    text-align: justify;
+}
+
+.assignBtn{
+    color: #f0ae4e;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.assignBtn:hover{
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border-radius: 25px 10px 25px 10px ;
+}
+
+.listPhase{
+    border: none;
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+
+.removeBtnPhase{
+    cursor: pointer;
+    color: #f0ae4e;
+    float: right;
+    margin-top: 5px;
+}
+
+.removeBtnPhase:hover{
+   
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+}
+
+
+
+.phaseSaveBtn{
+    background-color: #f0ae4e;;
+    color: black;
+    width: 8rem;
+    margin: auto;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.phaseSaveBtn:hover{
+    background-color: #f0ae4e;
+    border: 1px solid #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    color: black;
+  }
+  
+.phaseSaveBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+}
+
+
+
+.saveBtn{
+    background-color: #f0ae4e;;
+    color: black;
+    width: 40%;
+    margin: auto;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.saveBtn:hover{
+    background-color: #f0ae4e;
+    border: 1px solid #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    color: black;
+  }
+  
+.saveBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+}
+
+.completedBtn{
+    float: right;
+    color: #f0ae4e;
+    cursor: pointer;
+    border-radius: 20px;
+}
+
+.completedBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: #f0ae4e;
+    color: black;
+}
+
+
+.notificationImage{
+    width: 20%;
+    border-radius: 50px !important;
+}
+
+
+.projectListItem{
+    background-color: transparent !important;
+    color: #dad9d7;
+    border: 1px solid #dad9d7;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+}
+
+
+.projectListItem:hover{
+    border: 1px solid #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    cursor: pointer;
+}
+
+
+.dropBtn{
+    cursor: pointer;
+    background-color: #f0ae4e;;
+    color: black !important;
+    border: 1px solid #f0ae4e;
+    border-radius: 25px 10px 25px 10px !important;
+}
+
+
+.dropBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.dropBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}
+
+
+.dropDownCont{
+    background-color: #dad9d7;
+}
+
+
+.memberLists{
+    background-color: transparent !important;
+    color: #dad9d7;
+}
+
+
+.toastMain{
+    background-color: transparent;
+    border: 1px solid #dad9d7;
+    border-radius: 25px 10px 25px 10px !important;
+    box-shadow: 0px 0px 10px 1px rgba(0,0,0,0.63); 
+    cursor: pointer;
+}
+
+.toastHeader{
+    background-color: transparent;
+    color: #dad9d7;
+}
+
+
+.downloadBtn{
+    cursor: pointer;
+    background-color: #f0ae4e;;
+    color: black !important;
+    border: 1px solid #f0ae4e;
+    float: right;
+}
+
+
+.downloadBtn:hover{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e; 
+    border: 1px solid #f0ae4e;
+}
+  
+.downloadBtn:focus{
+    background-color: #f0ae4e;
+    box-shadow: 0px 0px 10px 1px #f0ae4e;
+    border: 1px solid #f0ae4e;
+}

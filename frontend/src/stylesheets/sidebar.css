@@ -1,0 +1,15 @@
+.sidebarDiv{
+    display: flex;
+    /* margin-left: 0px; */
+    height: 100vh;
+    /* overflow: hidden; */
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+}
+
+.sideBarMain{
+    color: #fff;
+    background-color:rgb(63, 59, 59);
+}
